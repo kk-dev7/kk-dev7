@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/767hcZxd/banner.png)](https://github.com/kkb3st)
+
 <h1 align="center">Hi 👋, I'm kk~best</h1>
 <h3 align="center">a developer who likes to create stuff nobody needs</h3>
 
