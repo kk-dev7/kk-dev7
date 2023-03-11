@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm kk~best</h1>
+<h1 align="center">Hi 👋, I'm kk</h1>
 <h3 align="center">a developer who likes to create stuff nobody needs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkb3st&label=Profile%20views&color=0e75b6&style=flat" alt="kkb3st" /> </p>
