@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkb3st&label=Profile%20views&color=0e75b6&style=flat" alt="kkb3st" /> </p>
 
 <hr>
+<img align="right" alt="coding" width=233 height=166 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
 <h3 align="left">💫 About me:</h3>
 
 - 🔭 I’m currently working on [PowerConverter](https://github.com/kkb3st/PowerConverter)
