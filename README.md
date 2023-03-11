@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I use PyCharm**
 
+<hr>
+
 <p align="left">
 </p>
 
