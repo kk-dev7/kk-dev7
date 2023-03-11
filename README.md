@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **kk_b3st@proton.me**
+- 📫 How to reach me: **kk_b3st@proton.me**
 
-- ⚡ Fun fact **I use PyCharm**
+- ⚡ Fun fact: **I use PyCharm**
 
 <hr>
 
