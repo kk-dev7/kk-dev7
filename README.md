@@ -27,11 +27,13 @@
 <hr>
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kk-dev7&show_icons=true&locale=en&layout=compact&theme=merko" alt="kk-dev7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kk-dev7&show_icons=true&locale=en&theme=merko" alt="kk-dev7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kk-dev7&theme=merko" alt="kk-dev7" /></p>
+![](https://github-readme-stats.vercel.app/api?username=kk-dev7&show_icons=true&locale=en&theme=merko)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=kk-dev7&theme=merko)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=kk-dev7&show_icons=true&locale=en&layout=compact&theme=merko)<br/>
 
 <hr>
 
