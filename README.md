@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=2500&pause=1000&color=00FF00&background=1E42FF00&center=true&width=435&lines=kk)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=1000&pause=1000&color=00FF00&background=1E42FF00&center=true&width=435&lines=kk)](https://git.io/typing-svg)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=2500&pause=1000&color=1D6CF7&background=1E42FF00&center=true&width=435&lines=github.com/kk-dev7)](https://git.io/typing-svg)
