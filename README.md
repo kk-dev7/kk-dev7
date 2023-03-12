@@ -3,8 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=2500&pause=2000&color=1D6CF7&background=1E42FF00&center=true&width=435&lines=github.com/kk-dev7)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkb3st&label=Profile%20views&color=0e75b6&style=flat" alt="kkb3st" /> </p>
-
 <hr>
 <img align="right" alt="coding" width=233 height=166 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
 <h3 align="left">💫 About me:</h3>
@@ -41,4 +39,6 @@
 <h3 align="left">✍️ Random Dev Quote:</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=kkb3st&label=Profile%20views&color=0e75b6&style=plastic)
 
