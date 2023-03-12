@@ -4,7 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=2500&pause=2000&color=1D6CF7&background=1E42FF00&center=true&width=435&lines=github.com/kk-dev7)](https://git.io/typing-svg)
 
 <hr>
-<img align="right" alt="coding" width=233 height=166 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
+<img align="right" alt="coding" width=233 height=166 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+     
 <h3 align="left">💫 About me:</h3>
 
 - 🔭 I’m currently working on [PowerConverter](https://github.com/kkb3st/PowerConverter)
