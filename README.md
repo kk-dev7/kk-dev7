@@ -1,7 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=2500&pause=2000&color=00FF00&background=1E42FF00&center=true&width=435&lines=kk)](https://git.io/typing-svg)
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=2500&pause=2000&color=1D6CF7&background=1E42FF00&center=true&width=435&lines=github.com/kk-dev7)](https://git.io/typing-svg)
+<p align="center">
+     <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=2500&pause=2000&color=00FF00&background=1E42FF00&center=true&width=435&lines=kk">
+</p>
+<p align="center">
+     <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=2500&pause=2000&color=1D6CF7&background=1E42FF00&center=true&width=435&lines=github.com/kk-dev7">
+</p>
 
 <hr>
 <img align="right" alt="coding" width=233 height=166 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
