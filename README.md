@@ -1,21 +1,15 @@
-<p align="center">
-     <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=2500&pause=2000&color=00FF00&background=1E42FF00&center=true&width=435&lines=kk">
-</p>
-<p align="center">
-     <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=2500&pause=2000&color=1D6CF7&background=1E42FF00&center=true&width=600&height=60&lines=passionate+python+developer;student;always+learning+new+things">
-</p>
+<h1 align="center">
+Welcome 👋
+</h1>
 
-<hr>
 <img align="right" alt="coding" width=233 height=166 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
      
-<h3 align="left">💻 About:</h3>
-
-
-- 🌱 Currently learning **Rust**
-
-- 📫 How to reach me: **kk_b3st@proton.me**
-
-- ⚡ Fun fact: **I use PyCharm**
+<h3 align="left">✨ About me:</h3>
+     
+- [🐍] python dev
+- [🏫] high school student
+- [👾] hiding in the [matrix](https://matrix.org/)
+- [🤫] caring about privacy
 
 <hr>
 
