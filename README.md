@@ -8,7 +8,7 @@
 <hr>
 <img align="right" alt="coding" width=233 height=166 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
      
-<h3 align="left">💫 About me:</h3>
+<h3 align="left">💻 About:</h3>
 
 
 - 🌱 Currently learning **Rust**
