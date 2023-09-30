@@ -10,9 +10,9 @@
      
 <h3 align="left">💫 About me:</h3>
 
-- 🔭 I’m currently working on [PowerConverter](https://github.com/kkb3st/PowerConverter)
+- 🔭 I’m currently working on nothing interesting
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me: **kk_b3st@proton.me**
 
@@ -52,5 +52,5 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=kkb3st&label=Profile%20views&color=0e75b6&style=plastic)
+![](https://komarev.com/ghpvc/?username=kk-dev7&label=Profile%20views&color=0e75b6&style=plastic)
 
