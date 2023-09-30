@@ -10,9 +10,8 @@
      
 <h3 align="left">💫 About me:</h3>
 
-- 🔭 I’m currently working on nothing interesting
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 Currently learning **Rust**
 
 - 📫 How to reach me: **kk_b3st@proton.me**
 
