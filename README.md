@@ -12,7 +12,7 @@ Welcome 👋
   
 - [👾] hiding in the [matrix](https://matrix.org/)
   
-- [🤫] caring about privacy
+- [🤫] caring about data protection
 
 - [♟️] playing chess
   
