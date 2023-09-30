@@ -7,9 +7,13 @@ Welcome 👋
 <h3 align="left">✨ About me:</h3>
      
 - [🐍] python dev
+  
 - [🏫] high school student
+  
 - [👾] hiding in the [matrix](https://matrix.org/)
+  
 - [🤫] caring about privacy
+  
 
 <hr>
 
