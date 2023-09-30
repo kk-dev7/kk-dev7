@@ -13,6 +13,8 @@ Welcome 👋
 - [👾] hiding in the [matrix](https://matrix.org/)
   
 - [🤫] caring about privacy
+
+- [♟️] playing chess
   
 
 <hr>
