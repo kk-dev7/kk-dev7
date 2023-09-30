@@ -2,7 +2,7 @@
      <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=2500&pause=2000&color=00FF00&background=1E42FF00&center=true&width=435&lines=kk">
 </p>
 <p align="center">
-     <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=2500&pause=2000&color=1D6CF7&background=1E42FF00&center=true&width=600&height=60&lines=Passionate+Python+developer;Linux+enthusiast;Always+learning+new+things">
+     <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=2500&pause=2000&color=1D6CF7&background=1E42FF00&center=true&width=600&height=60&lines=passionate+python+developer;student;always+learning+new+things">
 </p>
 
 <hr>
