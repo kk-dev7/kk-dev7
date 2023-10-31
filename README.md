@@ -14,7 +14,7 @@ Welcome 👋
   
 - [🤫] caring about data protection
 
-- [♟️] playing chess
+- [♟️] chess player
   
 
 <hr>
