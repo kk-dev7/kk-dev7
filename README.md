@@ -37,11 +37,11 @@ Welcome 👋
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=kk-dev7&show_icons=true&locale=en&theme=merko)<br/>
+![](https://github-readme-stats.vercel.app/api?username=astra1dev&show_icons=true&locale=en&theme=merko)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kk-dev7&theme=merko)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=astra1dev&theme=merko)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=kk-dev7&show_icons=true&locale=en&layout=compact&theme=merko)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=astra1dev&show_icons=true&locale=en&layout=compact&theme=merko)<br/>
 
 <hr>
 
@@ -49,5 +49,5 @@ Welcome 👋
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=kk-dev7&label=Profile%20views&color=0e75b6&style=plastic)
+![](https://komarev.com/ghpvc/?username=astra1dev&label=Profile%20views&color=0e75b6&style=plastic)
 
