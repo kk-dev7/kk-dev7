@@ -15,6 +15,8 @@ Welcome 👋
 - [🤫] caring about data protection
 
 - [♟️] chess player
+
+- [🤓] currently learning reverse engineering
   
 
 <hr>
